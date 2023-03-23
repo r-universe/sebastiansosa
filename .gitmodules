@@ -8,3 +8,8 @@
 	url = https://github.com/sebastiansosa/ants
 	shallow = true
 	registered = true
+[submodule "NetExplorer"]
+	path = NetExplorer
+	url = https://github.com/cran/NetExplorer
+	shallow = true
+	registered = true
