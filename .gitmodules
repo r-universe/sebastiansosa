@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ANTs"]
-	path = ANTs
-	url = https://github.com/sebastiansosa/ants
 [submodule "NetExplorer"]
 	path = NetExplorer
 	url = https://github.com/cran/NetExplorer
